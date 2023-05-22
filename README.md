@@ -1,0 +1,2 @@
+# TestTaskGolangCalculator
+KATA
